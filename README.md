@@ -1,5 +1,3 @@
 # CPT
 
-![Alt text](example CPT trace.png "example CPT trace.png")
-
-![Alt text](example dissipation test.png "example dissipation test.png")
+![Alt text](example_CPT_trace.png "example_CPT_trace.png")
